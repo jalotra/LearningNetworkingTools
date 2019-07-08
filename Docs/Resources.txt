@@ -1,0 +1,10 @@
+1. The Cyber Mentor Youtube Channel
+2. Hack The Box
+3. Virtual Hacking Labs
+4. VulnHub
+5. eLearnSecurity
+6. Offensive Security(OSCP)
+
+Exam to take for PenTesters
+Giac.org
+
